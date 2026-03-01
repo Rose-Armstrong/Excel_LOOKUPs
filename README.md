@@ -26,4 +26,4 @@ Master VLOOKUP() & XLOOKUP() for effortless data lookups! Sample Excel files + c
 2. Open → Apply formulas from video timestamps  
 3. **Result:** Clean matches across sales/customer datasets  
 
-Let's [Connect](rosearmstrong.carrd.co)
+Let's [Connect](https://rosearmstrong.carrd.co/)
